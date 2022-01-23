@@ -28,6 +28,7 @@ a-*.tar
 /.elixir_ls/
 /.github/
 /test/
+/bin/
 
 .dockerignore
 .envrc
