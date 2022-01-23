@@ -25,9 +25,13 @@ a-*.tar
 # Temporary files, for example, from tests.
 /tmp/
 
-.DS_Store
-.elixir_ls/
+/.elixir_ls/
+/.github/
+/test/
+
+.dockerignore
 .envrc
-.github
+.DS_Store
+README.md
 
 Dockerfile
